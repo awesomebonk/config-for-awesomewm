@@ -1,6 +1,7 @@
 Awesomewm config then I use
 
 Requirements:
+
 kitty, compton, geany, xfce-terminal, maim, gnome-boxes, nm-applet, mate-power-manager, /etc/xdg/autostart/polkit-mate-authentication-agent-1., xinput, dmenu, nemo and firefox (because it used in config)
 
 All this work on Awesomewm 4.3, Lua 5.4.1 and Fedora 33
