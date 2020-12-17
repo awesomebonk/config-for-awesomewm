@@ -1,36 +1,36 @@
 Awesomewm config that I use
 
-📑 Dependencies:
+## 📑 Dependencies:
 
-⬤kitty
+#### ⬤ kitty
 
-⬤compton
+#### ⬤ compton
 
-⬤geany
+#### ⬤ geany
 
-⬤xfce-terminal
+#### ⬤ xfce-terminal
 
-⬤maim
+#### ⬤ maim
 
-⬤gnome-boxes
+#### ⬤ gnome-boxes
 
-⬤nm-applet
+#### ⬤ nm-applet
 
-⬤frei0r-plugins
+#### ⬤ frei0r-plugins
 
-⬤mate-power-manager
+#### ⬤ mate-power-manager
 
-⬤/etc/xdg/autostart/polkit-mate-authentication-agent-1.
+#### ⬤ /etc/xdg/autostart/polkit-mate-authentication-agent-1.
 
-⬤xinput
+#### ⬤ xinput
 
-⬤dmenu
+#### ⬤ dmenu
 
-⬤nemo
+#### ⬤ nemo
 
-⬤firefox 
+#### ⬤ firefox 
 
-⭐All of this used in config⭐
+#### ⭐All of this used in config⭐
 
 🀆
 All this work on Awesomewm 4.3, Lua 5.4.1 and Fedora 33
@@ -39,32 +39,35 @@ All this work on Awesomewm 4.3, Lua 5.4.1 and Fedora 33
 💻
 Platform: Lenovo Idiapad 530s
 
-📂 Installation:
+## 📂 Installation:
 
-paste in terminal: git clone https://github.com/awesomebonk/config-for-awesomewm.git  .config/awesome
+paste in terminal:
+
+```shell
+$ git clone https://github.com/awesomebonk/config-for-awesomewm.git  .config/awesome
+````
 
 And just restart awesome session)
 
-🎥
-Screenshot:
+## 🎥 Screenshot:
 
-Green theme:
-🐲
+### Green theme: 🐲
+
 ![Green theme](/images/green.png)
-Blue theme:
-🐬
+### Blue theme: 🐬
+
 ![Blue theme](/images/blue.png)
-Brown theme:
-🐌
+### Brown theme: 🐌
+
 ![Brown theme](/images/brown.png)
-Main Red theme:
-🐞
+### Main Red theme: 🐞
+
 ![Main Red theme](/images/red.png)
-Secondary Red theme:
-🐙
+### Secondary Red theme: 🐙
+
 ![Secondary Red theme](/images/red1.png)
-Black theme:
-🐼
+### Black theme: 🐼
+
 ![Black theme](/images/black.png)
 
 Thanks to: 
