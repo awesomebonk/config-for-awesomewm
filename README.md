@@ -41,7 +41,7 @@ Platform: Lenovo Idiapad 530s
 
 📂 Installation:
 
-paste in terminal git clone https://github.com/awesomebonk/config-for-awesomewm.git  .config/awesome
+paste in terminal: git clone https://github.com/awesomebonk/config-for-awesomewm.git  .config/awesome
 
 And just restart awesome session)
 
