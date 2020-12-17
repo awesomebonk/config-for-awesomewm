@@ -19,7 +19,7 @@ naughty.config.defaults['icon_size'] = 80
 
 local lain          = require("lain")
 local freedesktop   = require("freedesktop")
-local run_shell     = require("widgets.run-shell-3.run-shell")
+local run_shell     = require("run-shell-3.run-shell")
 
 -- Enable hotkeys help widget for VIM and other apps
 -- when client with a matching name is opened:
@@ -72,9 +72,9 @@ run_once({ "unclutter -root" }) -- entries must be comma-separated
 -- {{{ Variable definitions
 
 local themes = {
-    "blue",		--1
+    "blue",	--1
     "green",    --2
-    "red",		--3
+    "red",	--3
     "brown",	--4
 }
 
