@@ -1,4 +1,4 @@
-Awesomewm config then I use
+Awesomewm config that I use
 
 Requirements:
 
