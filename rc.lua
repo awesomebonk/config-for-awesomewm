@@ -76,6 +76,7 @@ local themes = {
     "green",    --2
     "red",	--3
     "brown",	--4
+    "black",	--5
 }
 
 -- choose your theme here
