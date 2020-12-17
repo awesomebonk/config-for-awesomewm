@@ -9,6 +9,7 @@ All this work on Awesomewm 4.3, Lua 5.4.1 and Fedora 33
 Notebook: Lenovo Idiapad 530s
 
 Screenshot:
+
 Green theme
 ![Green theme](/images/green.png)
 Blue theme
