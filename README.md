@@ -20,3 +20,7 @@ Main Red theme
 ![Main Red theme](/images/red.png)
 Secondary Red theme
 ![Secondary Red theme](/images/red1.png)
+
+Thanks to: 
+Erik Dubois,(my rc.lua based on his rc file)
+streetturtle.(author of widget run-shell-3)
