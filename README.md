@@ -22,5 +22,5 @@ Secondary Red theme
 ![Secondary Red theme](/images/red1.png)
 
 Thanks to: 
-Erik Dubois,(my rc.lua based on his rc file)
+Erik Dubois,(my rc.lua based on his rc file) and
 streetturtle.(author of widget run-shell-3)
