@@ -48,21 +48,24 @@ And just restart awesome session)
 🎥
 Screenshot:
 
-Green theme
+Green theme:
 🐲
 ![Green theme](/images/green.png)
-Blue theme
+Blue theme:
 🐬
 ![Blue theme](/images/blue.png)
-Brown theme
+Brown theme:
 🐌
 ![Brown theme](/images/brown.png)
-Main Red theme
+Main Red theme:
 🐞
 ![Main Red theme](/images/red.png)
-Secondary Red theme
+Secondary Red theme:
 🐙
 ![Secondary Red theme](/images/red1.png)
+Black theme:
+🐼
+![Black theme](/images/black.png)
 
 Thanks to: 
 Erik Dubois(my rc.lua based on his rc file) and
