@@ -81,6 +81,10 @@ And just restart awesome session)
 
 ![Black theme](/images/black.png)
 
+### Black theme:🦄
+
+![Black theme](/images/black.png)
+
 Thanks to: 
 Erik Dubois(my rc.lua based on his rc file) and
 streetturtle(author of widget run-shell-3)
