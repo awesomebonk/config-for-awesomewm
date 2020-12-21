@@ -47,8 +47,14 @@ paste in terminal:
 $ git clone https://github.com/awesomebonk/config-for-awesomewm.git  .config/awesome
 ````
 To install dependencies
+
+For Fedora
 ```shell
 $ sh .config/awesome/install_fedora.sh
+```
+
+For Debian based distros
+```shell
 $ sh .config/awesome/install_deb_based.sh
 ```
 
