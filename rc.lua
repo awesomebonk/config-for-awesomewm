@@ -101,7 +101,7 @@ local virtualmachine    = "gnome-boxes"
 
 -- awesome variables
 awful.util.terminal = terminal
-awful.util.tagnames = { "WORK", "CHAT", "WEB", "EXTRA", "ONIME", "BOX" }
+awful.util.tagnames = { "ⅰ", "ⅱ", "ⅲ", "ⅳ", "ⅴ", "ⅵ" }
 -- Use this : https://fontawesome.com/cheatsheet,
 awful.layout.suit.tile.left.mirror = true
 awful.layout.layouts = {
