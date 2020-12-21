@@ -81,9 +81,9 @@ And just restart awesome session)
 
 ![Black theme](/images/black.png)
 
-### Black theme:🦄
+### Pink theme:🦄
 
-![Black theme](/images/black.png)
+![Pink theme](/images/pink.png)
 
 Thanks to: 
 Erik Dubois(my rc.lua based on his rc file) and
